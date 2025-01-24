@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1591175022 source:h:\project\gamehub1\main.cpp
+	<stdio.h>
+	"bouncingball.h"
+	"about.h"
+	"car.h"
+
+1589782330 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1589782330 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1591171959 h:\project\gamehub1\general.h
+	<GL/glut.h>
+	<math.h>
+
+1591169340 h:\project\gamehub1\bouncingball.h
+	<GL/freeglut.h>
+	"general.h"
+
+1589782330 c:\program files\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1589782330 c:\program files\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1590580873 h:\project\gamehub1\about.h
+	<GL/freeglut.h>
+	"general.h"
+
+1591169978 h:\project\gamehub1\car.h
+	<GL/freeglut.h>
+	"general.h"
+
+1591175024 source:c:\users\user\desktop\gamehub1\main.cpp
+	<stdio.h>
+	"bouncingball.h"
+	"about.h"
+	"car.h"
+
+1591169342 c:\users\user\desktop\gamehub1\bouncingball.h
+	<GL/freeglut.h>
+	"general.h"
+
+1591171960 c:\users\user\desktop\gamehub1\general.h
+	<GL/glut.h>
+	<math.h>
+
+1590580874 c:\users\user\desktop\gamehub1\about.h
+	<GL/freeglut.h>
+	"general.h"
+
+1591169980 c:\users\user\desktop\gamehub1\car.h
+	<GL/freeglut.h>
+	"general.h"
+
+1687499631 source:c:\users\user\desktop\cg\gamehub1\main.cpp
+	<stdio.h>
+	"bouncingball.h"
+	"about.h"
+	"car.h"
+
+1591169342 c:\users\user\desktop\cg\gamehub1\bouncingball.h
+	<GL/freeglut.h>
+	"general.h"
+
+1591171960 c:\users\user\desktop\cg\gamehub1\general.h
+	<GL/glut.h>
+	<math.h>
+
+1687499604 c:\users\user\desktop\cg\gamehub1\about.h
+
+1687507788 c:\users\user\desktop\cg\gamehub1\car.h
+	<GL/freeglut.h>
+	"general.h"
+

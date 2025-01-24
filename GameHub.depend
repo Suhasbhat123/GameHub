@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1689495312 source:c:\users\user\desktop\cg\gamehub\main.cpp
+	<stdio.h>
+	"bouncingball.h"
+	"about.h"
+	"car.h"
+
+1689567412 c:\users\user\desktop\cg\gamehub\bouncingball.h
+	<GL/freeglut.h>
+	"general.h"
+
+1591171960 c:\users\user\desktop\cg\gamehub\general.h
+	<GL/glut.h>
+	<math.h>
+
+1687755961 c:\users\user\desktop\cg\gamehub\about.h
+
+1689568108 c:\users\user\desktop\cg\gamehub\car.h
+	<GL/freeglut.h>
+	"general.h"
+
